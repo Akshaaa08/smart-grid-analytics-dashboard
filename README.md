@@ -72,16 +72,16 @@ The platform integrates interactive dashboards, machine learning-based anomaly d
 ## Screenshots
 
 ### Dashboard Overview
-(Add Screenshot)
+<img width="1600" height="767" alt="1" src="https://github.com/user-attachments/assets/2059e96c-9351-4ca4-be6b-81d4ce7f4f85" />
 
 ### Anomaly Detection Module
-(Add Screenshot)
+<img width="1600" height="772" alt="3" src="https://github.com/user-attachments/assets/66fa6f96-3e6f-47b3-9c74-91fa243d25c5" />
 
 ### Renewable Energy Analytics
-(Add Screenshot)
+<img width="1600" height="759" alt="4" src="https://github.com/user-attachments/assets/fc3567fa-22e3-47eb-a9e5-47bb985dbfb5" />
 
 ### Alert Monitoring System
-(Add Screenshot)
+<img width="1600" height="763" alt="5" src="https://github.com/user-attachments/assets/352b3080-c692-4daf-ad47-f105490017c7" />
 
 ---
 
